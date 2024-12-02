@@ -7,4 +7,4 @@ On peut choisir les données à afficher, ainsi que le type de graphique.
 
 ### Preview 👇
 
-![screen-q10](https://github.com/user-attachments/assets/5b7dc531-19f2-4eb7-bec7-be2ceb26ce82)
+![screen-q10](https://github.com/user-attachments/assets/d77985ac-30b1-4d6c-8668-4fa1c211bc54)
