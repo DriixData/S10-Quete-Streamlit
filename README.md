@@ -7,4 +7,4 @@ On peut choisir les données à afficher, ainsi que le type de graphique.
 
 ### Preview 👇
 
-![Screen du projet](https://github.com/DriixData/S9-quete-html-css/blob/main/screen_projet.png?raw=true "Aperçu du projet")
+![screen-q10](https://github.com/user-attachments/assets/5b7dc531-19f2-4eb7-bec7-be2ceb26ce82)
