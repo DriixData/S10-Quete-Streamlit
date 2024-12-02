@@ -79,11 +79,6 @@ if data_selected:
 
         if colonne_y:
 
-
-            # bar_chart = sns.barplot(x=colonne_x, y=colonne_y, data=data, ax=ax)
-            # scatter_chart = sns.scatterplot(x=colonne_x, y=colonne_y, data=data)
-            # line_chart = sns.lineplot(x=colonne_x, y=colonne_y, data=data)
-
             graphsets = ("bar_chart", "line_chart", "scatter_chart")
 
             graph_selected = st.selectbox(
